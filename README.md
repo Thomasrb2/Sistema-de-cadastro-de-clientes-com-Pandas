@@ -1,8 +1,17 @@
-Analise de dados com pandas 📊
+Cadastro de clientes com Pandas 📊
 
-Este projeto foi desenvolvido com o objetivo de praticar análise e manipulação de dados utilizando a linguagem Python e a biblioteca Pandas
+Sobre o projeto:
+Desenvolvi este projeto com o objetivo de praticar a manipulação de dados utilizando a linguagem Python e a biblioteca Pandas, por meio de um sistema simples de cadastro de clientes executado no terminal.
 
-ferramentas utilizadas 🛠️
+Tecnologias utilizadas 🛠️
 - Python
 - Pandas
-- Visual studio code
+- Visual Studio Code
+
+
+Funcionalidades ⚙️
+- Cadastro de novos clientes
+- Consulta da lista de clientes
+- Armazenamento dos dados em um DataFrame utilizando Pandas
+- Menu interativo no terminal
+- Manipulação de dados em memória
