@@ -15,3 +15,7 @@ Funcionalidades ⚙️
 - Armazenamento dos dados em um DataFrame utilizando Pandas
 - Menu interativo no terminal
 - Manipulação de dados em memória
+
+📷 Demonstração
+
+![Menu do programa](imagens/menu.png)
